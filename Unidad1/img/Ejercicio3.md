@@ -4,7 +4,7 @@
 
 - Crea una rama que se llame primera en un repositorio local, y ejecuta la instrucción necesaria para comprobar que se ha creado.
 
-    ![Creacionderamas](https://github.com/ana-deb739/prueba_AnaDeb/blob/main/Ejercicio3/img/1.creacionderama.PNG)
+    ![Creacionderamas](img/1.creacionderama.PNG)
   
 - Crea un nuevo fichero en esta rama y fusiónalo con la principal. ¿Se ha producido conflicto? Razona la respuesta.
   
