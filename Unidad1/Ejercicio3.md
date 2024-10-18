@@ -4,66 +4,66 @@
 
 - Crea una rama que se llame primera en un repositorio local, y ejecuta la instrucción necesaria para comprobar que se ha creado.
 
-    ![Creacionderamas](https://github.com/ana-deb739/prueba_AnaDeb/blob/main/Ejercicio3/img/1.creacionderama.PNG)
+    ![Creacionderamas](img/1.creacionderama.PNG)
   
 - Crea un nuevo fichero en esta rama y fusiónalo con la principal. ¿Se ha producido conflicto? Razona la respuesta.
   
   Creamos el fichero prueba.txt
 
-  ![Creaciondeprueba](img\2.prueba.png)
+  ![Creaciondeprueba](img/2.prueba.PNG)
 
     Subimos el fichero
 
-  ![subidadeprueba](img\subidadeprueba.png)
+  ![subidadeprueba](img/subidadeprueba.PNG)
 
     Cambiamos de rama
 
-  ![cambioderama](img\cambioamain.png)
+  ![cambioderama](img/cambioamain.PNG)
 
     Hacemos un git merge y podemos observar que no hay conflicto.
 
-  ![gitmerge](img\3.gitmergeno.png)
+  ![gitmerge](img/3.gitmergeno.PNG)
   
 - Borra la rama primera.
 
-    ![Borrolaramaprimera](img\borrarprimera.png)
+    ![Borrolaramaprimera](img/borrarprimera.PNG)
   
 - Crea una rama que se llame segunda, y modifica un fichero en ella para producir un conflicto al unirlo a la rama principal. Entrega el contenido del fichero donde se ha producido el conflicto.
 
     Crear rama segunda
 
-    ![ramasegunda](img\crearsegunda.png)
+    ![ramasegunda](img/crearsegunda.PNG)
 
     Modifico ejemplo.txt en main
 
-    ![ejemplomain](img\ejemplo.txtmain.png)
+    ![ejemplomain](img/ejemplo.txtmain.PNG)
 
     Git add y Git commit de main
 
-    ![ejemplomain](img\gitaddgitcommitmain.png)
+    ![ejemplomain](img/gitaddgitcommitmain.PNG)
 
     Modifico ejemplo.txt en segunda
 
-    ![ejemplosegunda](img\ejemplo.txtsegunda.png)
+    ![ejemplosegunda](img/ejemplo.txtsegunda.PNG)
 
     Git add y Git commit de segunda
 
-    ![ejemplosegunda](img\gtiaddgitcommitsegunda.png)
+    ![ejemplosegunda](img/gtiaddgitcommitsegunda.PNG)
   
 - Soluciona el conflicto que has creado en el punto anterior y sincroniza la rama segunda en el repositorio remoto en GitHub correspondiente. Entrega una captura de pantalla donde se vea que se ha creado la rama en el repositorio de GitHub.
 
   Git merge
 
-    ![Gitmerge](img\gitmergesegunda.png)
+    ![Gitmerge](img/gitmergesegunda.PNG)
 
   Git commit
 
-  ![Gitcommit](img\gitcommit.png)
+  ![Gitcommit](img/gitcommit.PNG)
 
   Ramas Git Hub
 
-  ![Ramas](img\ramasgithub.png)
+  ![Ramas](img/ramasgithub.PNG)
 
   Codigo arreglado
 
-  ![Codigo](img\github.png)
+  ![Codigo](img/github.PNG)
