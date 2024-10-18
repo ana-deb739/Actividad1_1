@@ -30,7 +30,7 @@
 
 - Una imagen
   
-  ![creacioderama](1.creacionderama.PNG)
+  ![creacioderama](img/1.creacionderama.PNG)
   
 - Una tabla
 
