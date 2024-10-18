@@ -2,28 +2,28 @@
 
 Crear fork del repositorio dado
 
-![crearrepositorio](img\createfork.png)
+![crearrepositorio](img/createfork.PNG)
 
 Clonar repositorio
 
-![clonarrepositorio](img\gitclone.png)
+![clonarrepositorio](img/gitclone.PNG)
 
 Fichero ADEB
 
-![FicheroADEB](img\ficheroADEB.png)
+![FicheroADEB](img/ficheroADEB.PNG)
 
 Fichero README
 
-![FicheroREADME](img\ficheroreadme.png)
+![FicheroREADME](img/ficheroreadme.PNG)
 
 Subida
 
-![Subida](img\subida.png)
+![Subida](img/subida.PNG)
 
 Pull Request
 
-![PullRequest](img\pullrequest.png)
+![PullRequest](img/pullrequest.PNG)
 
 Visión en Git Hub
 
-![vision](img\ok.png)
+![vision](img/ok.PNG)
