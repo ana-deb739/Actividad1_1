@@ -10,7 +10,7 @@
   
   Creamos el fichero prueba.txt
 
-  ![Creaciondeprueba](2.prueba.png)
+  ![Creaciondeprueba](2.prueba.PNG)
 
     Subimos el fichero
 
