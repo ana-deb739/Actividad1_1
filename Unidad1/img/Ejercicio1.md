@@ -2,7 +2,7 @@
 
 Vamos a crear un nuevo repositorio llamado prueba2_tu_nombre.
 
-![Repositiorioremoto](img/repositiorio_creado_git.png)
+![Repositiorioremoto](repositiorio_creado_git.png)
 
 
 Primero crea el repositorio local en Windows (usando git init).
