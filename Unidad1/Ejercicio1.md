@@ -18,7 +18,7 @@ Agrega (conecta) el repositorio local con un repositorio remoto en GitHub (usand
 
 Sube el repositorio local a GitHub (usando git push).
 
-![GitPush](img\git_push.PNG)
+![GitPush](img/git_push.PNG)
 
 Clona el repositorio remoto en tu máquina virtual Linux Debian (usando git clone).
 
